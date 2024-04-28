@@ -1,4 +1,4 @@
-Voice recognition system
+Voice recognition system -
 Voice-activated assistants are becoming more and more common in a technologically driven world. "VoiceBuddy" is proof of the smooth integration of voice recognition and online communication. The goal of this project is to develop a voice assistant that is easy to use and can react to requests, providing convenient access to internet resources.
 
 Software:
